@@ -1,13 +1,11 @@
 #include "main.h"
 
 /**
- *main: entry point
- *
+ *main: program that prints _putchar
  *Return: 0 (Success)
- *
 */
 
-int main (void)
+int main(void)
 {
 	_putchar('_');
 	_putchar('p');
